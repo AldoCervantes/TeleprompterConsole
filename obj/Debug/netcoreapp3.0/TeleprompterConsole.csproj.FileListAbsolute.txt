@@ -1,0 +1,11 @@
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\TeleprompterConsole\bin\Debug\netcoreapp3.0\TeleprompterConsole.exe
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\TeleprompterConsole\bin\Debug\netcoreapp3.0\TeleprompterConsole.deps.json
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\TeleprompterConsole\bin\Debug\netcoreapp3.0\TeleprompterConsole.runtimeconfig.json
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\TeleprompterConsole\bin\Debug\netcoreapp3.0\TeleprompterConsole.runtimeconfig.dev.json
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\TeleprompterConsole\bin\Debug\netcoreapp3.0\TeleprompterConsole.dll
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\TeleprompterConsole\bin\Debug\netcoreapp3.0\TeleprompterConsole.pdb
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\TeleprompterConsole\obj\Debug\netcoreapp3.0\TeleprompterConsole.csprojAssemblyReference.cache
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\TeleprompterConsole\obj\Debug\netcoreapp3.0\TeleprompterConsole.AssemblyInfoInputs.cache
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\TeleprompterConsole\obj\Debug\netcoreapp3.0\TeleprompterConsole.AssemblyInfo.cs
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\TeleprompterConsole\obj\Debug\netcoreapp3.0\TeleprompterConsole.dll
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\TeleprompterConsole\obj\Debug\netcoreapp3.0\TeleprompterConsole.pdb
